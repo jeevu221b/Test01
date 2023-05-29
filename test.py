@@ -1,1 +1,1 @@
-# Starbuck is closed on Sundays
+# Starbuck is on Sundays

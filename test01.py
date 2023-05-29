@@ -1,1 +1,1 @@
-#Starbucks will be open on Sunday also
+#Starbucks will be closed on Sundays
