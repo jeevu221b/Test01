@@ -1,1 +1,1 @@
-#Starbucks will be closed on Sundays
+#starbucks = {'아메리카노': 4100, '카페라떼': 4600, '카푸치노': 4600, '에스프레소': 3600, '카페모카': 5100}
