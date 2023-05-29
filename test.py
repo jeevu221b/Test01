@@ -1,0 +1,1 @@
+# Starbucks opens at 6:00 AM
